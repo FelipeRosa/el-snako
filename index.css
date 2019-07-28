@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  margin: 0;
+
+  background-color: rgb(40, 42, 54);
+}
+
+.canvón {
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.canvas {
+  border: 2px solid rgb(248, 248, 242);
+}
